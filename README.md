@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshika Rabadiya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi2611&label=Profile%20views&color=0e75b6&style=flat" alt="harshi2611" /> </p>
-
 - 🔭 I’m currently pursuing **B.E. in Computer Engineering in GEC Rajkot**
 
 - 🌱 I am always ready to **have a new experience, meet new people and learn new things.**
