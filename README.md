@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing **B.E. in Computer Engineering in GEC Rajkot**
 
-- 🌱 I am always ready to **have a new experience, meet new people and learn new things.**
+- 🌱 I am currently learning **django.**
 
 - 👯 I’m looking to collaborate with **new people**
 
